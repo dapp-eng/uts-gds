@@ -1,0 +1,8 @@
+,User-User projection,Item-Item projection
+Nodes,114687.0,67926.0
+Edges (shared-neighbour pairs),678059.0,1150581.0
+Density,0.00010310337509682004,0.0004987483889756797
+Mean degree,11.824513676353902,33.87748432117304
+Max degree,4339.0,3122.0
+% nodes with >= 1 neighbour,77.35401571233008,52.096399022465626
+Stored non-zeros (incl. diagonal),1470805.0,2369088.0

@@ -1,0 +1,12 @@
+,User projection (U x I),Item projection (I x U)
+Vector dimension,"67,926","114,687"
+Number of vectors,"114,687","67,926"
+Full similarity matrix cells (n^2),"13,153,107,969","4,613,941,476"
+Mean non-zeros per vector,1.48,2.499
+Median non-zeros per vector,1,1
+Max non-zeros per vector,507,113
+% vectors with exactly 1 non-zero,81.85,58.53
+Top-30 subgraph edges,52,11
+Top-30 subgraph density,0.1195,0.0253
+Top-30 subgraph isolated nodes,12,15
+Top-30 subgraph components,13,20

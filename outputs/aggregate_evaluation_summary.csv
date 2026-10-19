@@ -1,0 +1,3 @@
+Model,Users evaluated,Mean Hit@5,Mean NDCG@5
+Item-based KNN (k=5),200,0.05,0.021151893666028317
+Popularity baseline,200,0.0,0.0
